@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>test.csv</file>
+        <file>icons/user.png</file>
+    </qresource>
+</RCC>
